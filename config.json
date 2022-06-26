@@ -1,0 +1,16 @@
+{
+	"username": "sol_118",
+	"api_key": "ZV8cXKP9JZL7SX9LNpV-8HaC",
+	"api_secret": "3yVBv241Fh7v6NP3GRVHq9wRnOby9P3GcFzO7WjQs7Tjmhsv",
+	"expire_date": "2022-12-31",
+	"activation_code": "971CB2F8CD009F13F63B780DC746E3A5",
+	"testnet_mode": false,
+	"limit_mark": 100,
+	"limit_mark_cancel": 100,
+	"profit_target": 50,
+	"buy_height_rate": 0.5,
+	"sell_height_rate": 0.5,
+	"invest_ratio": 0.15,
+	"stop_loss": 0.85,
+	"exit": 0
+}
